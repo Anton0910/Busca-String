@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669925130 source:c:\users\anton\onedrive\Área de trabalho\estudos\ed2\algoritimos_busca\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD.H"
+
+1669925103 c:\users\anton\onedrive\Área de trabalho\estudos\ed2\algoritimos_busca\tad.h
+
+1669925062 source:c:\users\anton\onedrive\Área de trabalho\estudos\ed2\algoritimos_busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD.H"
+
